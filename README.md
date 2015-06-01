@@ -19,17 +19,17 @@ production. This should be your own VID/PID, or from a source such as
 ## Usable pins
 
 | Pin on ATTiny | Goes to | Connected to ISP as
-|-|-|-|
-|PB0|Pin 2 on connector | MOSI
-|PB3|Pin 3 on connector | Not Connected
-|PB4|Pin 4 on connector | Not Connected
+|---|---|---|
+| PB0 | Pin 2 on connector | MOSI 
+| PB3 | Pin 3 on connector | Not Connected
+| PB4 | Pin 4 on connector | Not Connected
 
 ## Bill of Materials
 
 #### This builds one board
 
 | Quantity | Description | Digikey Part Number | Notes
-|-|-|-|-|
+|---|---|---|---|
 |1|2.2K ohm resistor|1276-5070-1-ND|Pull-up resistor for D-
 |1|4.7k ohm resistor|P4.7KGCT-ND|Pull-up resistor for AVR RESET line
 |2|68 ohm resistor|311-68GRCT-ND|USB data terminators
@@ -40,7 +40,7 @@ production. This should be your own VID/PID, or from a source such as
 #### Optional components
 
 | Quantity | Description | Digikey Part Number | Notes
-|-|-|-|-|
+|---|---|---|---|
 |1|6 pin 8 pin DIP socket|A120347-ND|The older socket used in prototypes was P/N 390261-2 and was discontinued (***not yet sourced***)
 |1|330 ohm resistor|1276-5050-1-ND|Current limiting resistor for PWR LED (***not yet sourced***)
 |1|Power LED|475-2512-1-ND|0603 imperial
