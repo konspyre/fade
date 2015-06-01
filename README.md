@@ -1,4 +1,4 @@
-## dave's usb development ensemble (aka dude)
+## dave's usb development ensemble (dude)
 
 ### Work in progress
 
@@ -36,6 +36,7 @@ production. This should be your own VID/PID, or from a source such as
 |1|10uF 16V 20% X6S 0805 (imperial) capacitor|490-10499-1-ND|Bypass at USB input
 |1|6 pin AVR ISP header|3M9459-ND|For flashing the ATTiny85
 |1|ATTiny85 (PDIP)|ATTINY85-20PU-ND|ATTiny in PDIP format
+|1|0.1uF capacitor|490-1532-1-ND|Just buy a bunch. Singles are expensive!
 
 #### Optional components
 
