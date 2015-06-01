@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name isp6)(type KiCad)(uri ./parts/isp6.pretty)(options "")(descr ""))
+  (lib (name usbconn)(type KiCad)(uri ./parts/usbconn.pretty)(options "")(descr ""))
+  (lib (name zener_diodes)(type KiCad)(uri ./parts/zener_diodes.pretty)(options "")(descr ""))
+)
