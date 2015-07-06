@@ -42,13 +42,10 @@ production. This should be your own VID/PID, or from a source such as
 
 | Quantity | Description | Digikey Part Number | Notes
 |---|---|---|---|
-|1|6 pin 8 pin DIP socket|A120347-ND|The older socket used in prototypes was P/N 390261-2 and was discontinued (***not yet sourced***)
-|1|330 ohm resistor|1276-5050-1-ND|Current limiting resistor for PWR LED (***not yet sourced***)
+|1|6 pin 8 pin DIP socket|A120347-ND|The older socket used in prototypes was P/N 390261-2 and was discontinued
+|1|330 ohm resistor|1276-5050-1-ND|Current limiting resistor for PWR LED
 |1|Power LED|475-2512-1-ND|0603 imperial
 |1|Right angle 1x5 header|S5480-ND|For connecting to carrier boards
-
-Note: "***not yet sourced***" indicates that these
-components have not been sourced from the vendor, but should be equivalent to the parts that were used during prototyping. Buy or substitute at your own risk (they'll eventually be tested when enough parts are backlogged for a bulk order).
 
 ## Flashing firmware
 
