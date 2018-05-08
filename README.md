@@ -1,4 +1,4 @@
-## dave's usb development ensemble (dude)
+## fade - A fancier attempt at a dedicated volume control
 
 ### Work in progress
 
